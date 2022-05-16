@@ -1,1 +1,2 @@
 # Practice
+input ("Привет")
